@@ -68,12 +68,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\img\skills.svg" />
     <Content Include="Assets\img\about.jpg" />
+    <Content Include="Assets\img\bootstrap.svg" />
+    <Content Include="Assets\img\c-sharp-2.png" />
+    <Content Include="Assets\img\c-sharp.svg" />
     <Content Include="Assets\img\c-sharp.png" />
+    <Content Include="Assets\img\dot-net.svg" />
+    <Content Include="Assets\img\dot-net.png" />
     <Content Include="Assets\img\github.png" />
     <Content Include="Assets\img\html.png" />
+    <Content Include="Assets\img\js.svg" />
+    <Content Include="Assets\img\me.jpg" />
     <Content Include="Assets\img\myphoto.jpg" />
     <Content Include="Assets\img\css.png" />
+    <Content Include="Assets\img\sql.svg" />
     <Content Include="Assets\img\windows.png" />
     <Content Include="Assets\jquery\jquery-3.7.1.min.js" />
     <Content Include="Assets\js\script.js" />

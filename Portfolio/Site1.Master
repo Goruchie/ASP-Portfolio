@@ -94,7 +94,7 @@
             <div class="container">
                 <div class="row gy-5 align-items-center">
                     <div class="col-lg-6 text-center">
-                        <img src="Assets/img/about.jpg" alt="about-img" />
+                        <img src="Assets/img/me.jpg" alt="about-img" />
                     </div>
                     <div class="col-lg-6 ps-lg-5">
                         <div class="about-text">
@@ -200,6 +200,74 @@
                                 </p>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <%--Skills Section--%>
+        <section id="skill" class="section">
+            <div class="container">
+                <div class="row gy-5">
+                    <div class="col-lg-6">
+                        <div class="section-heading text-start">
+                            <h3>My Skills</h3>
+                        </div>
+                        <div class="skill-box">
+                            <div class="row g-3">
+                                <div class="col-6 col-md-4 col-lg-6">
+                                    <div class="feature-box feature-box-small bg-6">
+                                        <div class="icon">
+                                            <img src="Assets/img/dot-net.svg" alt="Alternate Text" style="width:25px; height:25px;" />
+                                        </div>
+                                        <h6>.NET</h6>
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-4 col-lg-6">
+                                    <div class="feature-box feature-box-small bg-3">
+                                        <div class="icon">
+                                            <i class="bx bxl-html5"></i>
+                                        </div>
+                                        <h6>HTML</h6>
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-4 col-lg-6">
+                                    <div class="feature-box feature-box-small bg-4">
+                                        <div class="icon">
+                                            <img src="Assets/img/c-sharp.svg" alt="Alternate Text" style="width:25px; height:25px;" />
+                                        </div>
+                                        <h6>C#</h6>
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-4 col-lg-6">
+                                    <div class="feature-box feature-box-small bg-1">
+                                        <div class="icon">
+                                            <i class="bx bxl-css3"></i>
+                                        </div>
+                                        <h6>CSS</h6>
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-4 col-lg-6">
+                                    <div class="feature-box feature-box-small bg-5">
+                                        <div class="icon">
+                                            <img src="Assets/img/sql.svg" alt="Alternate Text" style="width:25px; height:25px;" />
+                                        </div>
+                                        <h6>SQL</h6>
+                                    </div>
+                                </div>
+                                <div class="col-6 col-md-4 col-lg-6">
+                                    <div class="feature-box feature-box-small bg-2">
+                                        <div class="icon">
+                                            <img src="Assets/img/js.svg" alt="Alternate Text" style="width:25px; height:25px;" />
+                                        </div>
+                                        <h6>JavaScript</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 text-center">
+                        <img src="Assets/img/skills.svg" alt="Alternate Text" />
                     </div>
                 </div>
             </div>
