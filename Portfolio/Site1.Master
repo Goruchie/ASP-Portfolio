@@ -88,6 +88,39 @@
                 </div>
             </div>
         </section>
+
+        <%--About Section--%>
+        <section id="about" class="section">
+            <div class="container">
+                <div class="row gy-5 align-items-center">
+                    <div class="col-lg-6 text-center">
+                        <img src="Assets/img/about.jpg" alt="about-img" />
+                    </div>
+                    <div class="col-lg-6 ps-lg-5">
+                        <div class="about-text">
+                            <h3 class="h1 mb-3 text-dark fw-semibold">Tech creator and collaborator with 2+ years of experience.</h3>
+                            <p>Hi, I'm Marcos, a full-stack developer with over 2 years of industry experience. After completing a 
+                                rigorous 9-month Full-Stack Developer BootCamp, I spent a couple of months refining my skills before 
+                                starting a 6-month internship at Torre as a QA tester. During this time, I also took on freelance 
+                                projects and began specializing in .NET development. My portfolio includes nearly 50 diverse projects, 
+                                showcasing my ability to merge creativity with evolving technical expertise. Let's work together to 
+                                create something exceptional!
+                            </p>
+                            <div class="row pt-2">
+                                <div class="col-6 col-md-4">
+                                    <h5 class="text-primary fw-semibold fs-4 mb-0">50+</h5>
+                                    <span class="text-dark">Projects involved</span>
+                                </div>
+                                <div class="col-6 col-md-4">
+                                    <h5 class="text-primary fw-semibold fs-4 mb-0">5000+</h5>
+                                    <span class="text-dark">Hours worked</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </main>
     <form id="form1" runat="server">
         <div>
