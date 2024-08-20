@@ -437,7 +437,7 @@ main {
     border: 2px solid var(--dark-color);
     box-shadow: 0 0 0 0 var(--dark-color);
     display: flex;
-    transition;
+    transition: 0.3s box-shadow;
 }
 
 .feature-box:hover {
@@ -485,4 +485,24 @@ main {
     margin: 0;
     color: var(--dark-color);
     font-size: 17px;
+}
+
+.feature-box-small {
+    padding: 15px;
+    align-items: center;
+}
+
+.feature-box-small:hover {
+    box-shadow: 3px 3px 0 0 var(--dark-color);
+}
+
+.feature-box-small .icon {
+    width: 50px;
+    height: 50px;
+}
+
+.feature-box-small h6 {
+    margin: 0;
+    color: var(--dark-color);
+    padding-left: 15px;
 }
