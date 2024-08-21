@@ -206,7 +206,7 @@
         </section>
 
         <%--Skills Section--%>
-        <section id="skill" class="section">
+        <section id="skills" class="section">
             <div class="container">
                 <div class="row gy-5">
                     <div class="col-lg-6">
@@ -268,6 +268,70 @@
                     </div>
                     <div class="col-lg-6 text-center">
                         <img src="Assets/img/skills.svg" alt="Alternate Text" />
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <%--Work Section--%>
+        <section id="portfolio" class="section bg-gray">
+            <div class="container">
+                <div class="section-heading">
+                    <h3>Lastest projects</h3>
+                </div>
+                <div class="portfolio-box">
+                    <div class="row gx-3 gy-4 pb-3 mb-5 pb-lg-3 mb-lg-3 
+                        justify-content-around align-items-center">
+                        <div class="col-md-6 col-lg-5">
+                            <div class="portfolio-img">
+                                <img src="Assets/img/winapp.png" alt="Alternate Text" />
+                            </div>
+                        </div>                    
+                    <div class="col-md-6 col-lg-5">
+                        <div class="portfolio-text">
+                            <span>Windows App</span>
+                            <h4>Windows App Design and Development for a Store</h4>
+                            <p>WinStore is a Windows Forms application built with ADO.NET. It allows you to search,
+                                view, add, edit, and delete products. Each product has a code, name, description,
+                                price, and image.</p>
+                            <a href="#" class="colored-btn mt-1">Repository</a>
+                         </div>
+                        </div>
+                    </div>
+                    <div class="row gx-3 gy-4 pb-3 mb-5 pb-lg-3 mb-lg-3 
+                        justify-content-around align-items-center flex-row-reverse">
+                        <div class="col-md-6 col-lg-5">
+                            <div class="portfolio-img">
+                                <img src="Assets/img/winapp.png" alt="Alternate Text" />
+                            </div>
+                        </div>                    
+                    <div class="col-md-6 col-lg-5">
+                        <div class="portfolio-text">
+                            <span>Windows App</span>
+                            <h4>Windows App Design and Development for a Store</h4>
+                            <p>WinStore is a Windows Forms application built with ADO.NET. It allows you to search,
+                                view, add, edit, and delete products. Each product has a code, name, description,
+                                price, and image.</p>
+                            <a href="#" class="colored-btn mt-1">Repository</a>
+                         </div>
+                        </div>
+                    </div>
+                    <div class="row gx-3 gy-4 pb-3 mb-5 pb-lg-3 mb-lg-3 justify-content-around align-items-center">
+                        <div class="col-md-6 col-lg-5">
+                            <div class="portfolio-img">
+                                <img src="Assets/img/winapp.png" alt="Alternate Text" />
+                            </div>
+                        </div>                    
+                    <div class="col-md-6 col-lg-5">
+                        <div class="portfolio-text">
+                            <span>Windows App</span>
+                            <h4>Windows App Design and Development for a Store</h4>
+                            <p>WinStore is a Windows Forms application built with ADO.NET. It allows you to search,
+                                view, add, edit, and delete products. Each product has a code, name, description,
+                                price, and image.</p>
+                            <a href="#" class="colored-btn mt-1">Repository</a>
+                         </div>
+                        </div>
                     </div>
                 </div>
             </div>

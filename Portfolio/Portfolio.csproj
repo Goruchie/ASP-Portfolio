@@ -83,6 +83,7 @@
     <Content Include="Assets\img\myphoto.jpg" />
     <Content Include="Assets\img\css.png" />
     <Content Include="Assets\img\sql.svg" />
+    <Content Include="Assets\img\winapp.png" />
     <Content Include="Assets\img\windows.png" />
     <Content Include="Assets\jquery\jquery-3.7.1.min.js" />
     <Content Include="Assets\js\script.js" />
