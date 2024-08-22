@@ -393,6 +393,88 @@
                 </div>
             </div>
         </section>
+
+        <%--Contact Section --%>
+        <section id="contact" class="section bg-dark">
+            <div class="container">
+                <div class="row gy-5">
+                    <div class="col-lg-6">
+                        <div class="contact-form">
+                            <h2 class="text-dark">Get in touch</h2>
+                            <p class="lead">If you have an application you are interested in developing
+                                I’d love to help with it!</p>
+                            <form action="#">
+                                <div class="row gy-4 gx-3">
+                                    <div class="col-12">
+                                        <div class="form-group">
+                                            <label class="form-label">Name</label>
+                                            <input type="text" name="name" class="form-control" />
+                                        </div>
+                                    </div>
+                                    <div class="col-12">
+                                        <div class="form-group">
+                                            <label class="form-label">Email</label>
+                                            <input type="email" name="email" class="form-control" />
+                                        </div>
+                                    </div>
+                                    <div class="col-12">
+                                        <div class="form-group">
+                                            <label class="form-label">Subject</label>
+                                            <input type="text" name="subject" class="form-control" />
+                                        </div>
+                                    </div>
+                                    <div class="col-12">
+                                        <div class="form-group">
+                                            <label class="form-label">Message</label>
+                                            <textarea name="message" rows="3" class="form-control"></textarea>
+                                        </div>
+                                    </div>
+                                    <div class="col-12">
+                                        <button class="colored-btn" type="submit">
+                                            Send Message
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 ms-auto col-xl-4">
+                        <div class="pb-5 d-none d-md-block">
+                            <img src="assets/img/contact-bg.png" class="w-100" alt="Alternate Text" />
+                        </div>
+                        <ul class="contact-infos">
+                            <li>
+                                <div class="icon bg-1">
+                                    <i class="bx bx-phone"></i>
+                                </div>
+                                <div class="col ps-3">
+                                    <h5>Phone</h5>
+                                    <p>+54 1144224128</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon bg-2">
+                                    <i class="bx bx-envelope"></i>
+                                </div>
+                                <div class="col ps-3">
+                                    <h5>MAIL</h5>
+                                    <p>marcosgualtero43253@mail.com</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon bg-3">
+                                    <i class="bx bx-map"></i>
+                                </div>
+                                <div class="col ps-3">
+                                    <h5>Location</h5>
+                                    <p>Buenos Aires, Argentina</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
     </main>
     <form id="form1" runat="server">
         <div>
